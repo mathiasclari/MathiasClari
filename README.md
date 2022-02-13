@@ -4,7 +4,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat.
 > ABOUT ME:
 * Name: Mathias
 * Age: 18
-* ❤️: Updating...
+* ❤️: Taken
 > Pc:
 * CPU: Ryzen 5 2600
 *   GPU: RX 570 8GB
