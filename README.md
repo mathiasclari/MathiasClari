@@ -1,3 +1,5 @@
+You can support me here: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AJKB5)
+
 Hello, Person on another side! 
 My name is Mat or Mathias. I prefer it if you just call me Mat.
 
