@@ -30,6 +30,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat.
 *   Website: [CLICK HERE](https://acticraft.net/)
 *   Discord: [CLICK HERE](https://discord.gg/acticraft)
 *   IP: play.acticraft.net
+*   IP: play.mypixel.eu
 
 > Some GitHub stuff:
   
