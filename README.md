@@ -46,18 +46,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PxLib&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=cobalt)
 
-
-
-[![PxLib's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PxLib)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PxLib)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/PxLib/github-readme-stats)
 
 
 
