@@ -48,7 +48,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 
 
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pxlib)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
