@@ -4,7 +4,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 > ABOUT ME:
 * Name: Mathias
 * Age: 18
-* ❤️: Single ... I am a developer what do u expect from me?!
+* ❤️: Single ... I am a developer what do u expect from me?! + I am coding 16+ hours a day so please understand my dedication
 * Favourite Movie: Back to the Future
 
 > Pc:
@@ -25,13 +25,16 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 > Socials: 
 *   Youtube: [CLICK HERE](https://www.youtube.com/c/MatLabsOfficial/videos)
 *   Twitch:  [CLICK HERE](https://www.twitch.tv/matxlabs)
-*   Twitter: [CLICK HERE](https://twitter.com/MatxLabs)
+*   Twitter: [CLICK HERE](https://twitter.com/RealPxLib)
 *   Discord: Mat#5000
 
 > Minecraft Server :
+
+ACTICRAFT:
 *   Website: [CLICK HERE](https://acticraft.net/)
 *   Discord: [CLICK HERE](https://discord.gg/acticraft)
 *   IP: play.acticraft.net
+MYPIXEL
 *   IP: play.mypixel.eu
 
 > Some GitHub stuff:
@@ -84,3 +87,4 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 
 
 
+I am proud TechsCode / Hypera Supporter!
