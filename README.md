@@ -81,6 +81,8 @@ MYPIXEL
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AJKB5)
 
+<iframe src="https://github.com/sponsors/PxLib/card" title="Sponsor PxLib" height="225" width="600" style="border: 0;"></iframe>
+
 
 
 
