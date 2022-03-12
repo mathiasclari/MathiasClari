@@ -4,8 +4,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 > ABOUT ME:
 * Name: Mathias
 * Age: 18
-* ❤️: Single ... I am a developer what do u expect from me?! + I am coding 16+ hours a day so please understand my dedication
-* Favourite Movie: Back to the Future
+* ❤️: Single
 
 > Pc:
 * CPU: Ryzen 5 2600
