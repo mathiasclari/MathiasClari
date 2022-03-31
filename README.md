@@ -89,5 +89,5 @@ MYPIXEL
 I am proud TechsCode / Hypera Supporter!
 
 
-[![PxLib's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![PxLib's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
