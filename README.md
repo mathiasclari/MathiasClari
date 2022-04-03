@@ -4,7 +4,7 @@ My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
 > ABOUT ME:
 * Name: Mathias
 * Age: 18
-* ❤️: Single
+* ❤️: Married to Eyezah (Cosmetica developer)
 
 > Pc:
 * CPU: Ryzen 5 2600
