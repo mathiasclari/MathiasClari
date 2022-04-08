@@ -64,7 +64,7 @@ MYPIXEL
 
 
 
-![counter](https://[acticraft.net].m.pipedream.net)
+![counter](https://acticraft.net)
 
 
 
