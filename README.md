@@ -64,9 +64,6 @@ MYPIXEL
 
 
 
-![counter](https://github.com/PxLib)
-
-
 
 
 
