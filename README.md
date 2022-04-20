@@ -1,6 +1,25 @@
-<h1 alight: "center";>Welcome to PxLib's about me</h1>
+<article align="center">
+<h1 align="center">WELCOME TO PIXLIB'S ABOUT ME</h1>
+</article>
+<hr>
+<article align="center">
+<h3> About Me:</h3>
+<p>»  Name: Mathias</p>
+<p>»  Age: 18</p>
+</article>
+<hr>
+<article align="center">
+  <center>
+<h3 align="center"> Socials</h3>
+<a href="https://discord.gg/acticraft" align="center">
+  <img src="https://img.shields.io/discord/912333006558097428?color=7289DA&label=Discord&logo=discord&logoColor=7289DA">
+  </a>
+  </p>
+  </center>
+</article>
 
-  
+
+<hr>
 ![Px's GitHub stats](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=cobalt)
 
 
