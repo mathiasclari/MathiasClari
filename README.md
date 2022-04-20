@@ -1,4 +1,5 @@
 <article align="center">
+<img src="https://mc-heads.net/body/PxLib/right">
 <h1 align="center">WELCOME TO PIXLIB'S ABOUT ME</h1>
 </article>
 <hr>
@@ -10,12 +11,13 @@
 <hr>
 <article align="center">
   <center>
-<h3 align="center"> Socials</h3>
-<a href="https://discord.gg/acticraft" align="center">
-  <img src="https://img.shields.io/discord/912333006558097428?color=7289DA&label=Discord&logo=discord&logoColor=7289DA">
-  </a>
-  </p>
-  </center>
+<h3 align="center"> My Setup</h3>
+		<p>»  CPU: Ryzen 5 2600</p>
+		<p>»  GPU: RX 570 8GB</p>
+		<p>»  SSD: 250GB</p>
+		<p>»  HDD #1: 1TB</p>
+		<p>»  HDD #2: 2TB</p>
+		<p>»  CASE: NZXT H510 Elite (White)</p>
 </article>
 
 
