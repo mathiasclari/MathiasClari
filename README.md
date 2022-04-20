@@ -71,4 +71,4 @@ I am proud TechsCode / Hypera Supporter!
 
 [![PxLib's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://mc-heads.net/body/PxLib/right"> <img src="https://mc-heads.net/body/JernejTDO/right">
+<img src="https://avatars.githubusercontent.com/u/66589714?v=4">
