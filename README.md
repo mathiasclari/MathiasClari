@@ -1,5 +1,4 @@
 <article align="center">
-<img src="https://mc-heads.net/body/PxLib/right">
 <h1 align="center">WELCOME TO PIXLIB'S ABOUT ME</h1>
 </article>
 <hr>
@@ -72,3 +71,4 @@ I am proud TechsCode / Hypera Supporter!
 
 [![PxLib's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img src="https://mc-heads.net/body/PxLib/right"> <img src="https://mc-heads.net/body/JernejTDO/right">
