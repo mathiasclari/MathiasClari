@@ -1,5 +1,5 @@
 <article align="center">
-<img src="https://avatars.githubusercontent.com/u/66589714?v=4" style="align: "center";"> 
+<img src="https://avatars.githubusercontent.com/u/66589714?v=4">
 </article>
 <article align="center">
 <h1 align="center">WELCOME TO PIXLIB'S ABOUT ME</h1>
