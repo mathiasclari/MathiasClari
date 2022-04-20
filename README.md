@@ -1,43 +1,5 @@
+<h1 alight: "center";>Welcome to PxLib's about me</h1>
 
-<h1>PxLib</h1>
-Hello, Person on another side! 
-My name is Mat or Mathias. I prefer it if you just call me Mat or Px.
-
-> ABOUT ME:
-* Name: Mathias
-* Age: 18
-
-> Pc:
-* CPU: Ryzen 5 2600
-*   GPU: RX 570 8GB
-*   SSD: 250GB
-*   HDD #1: 1TB
-*   HDD #2: 2TB
-*   CASE: NZXT H510 Elite (White)
-
-> Other parts of setup:
-* 3 Screens (BenQ(24inc 60hz), LG(24inc 144hz), DELL (24inc 60hz))
-*   Keyboard: GLORIOUS MODULAR MECHANICAL KEYBOARD (Slightly modified)
-*   Mouse: Glorious Model O
-*   Headphones: SteelSeries Arctic 7 
-*   StreamDeck: 16 Button one
-
-> Socials: 
-*   Youtube: [CLICK HERE](https://www.youtube.com/c/MatLabsOfficial/videos)
-*   Twitch:  [CLICK HERE](https://www.twitch.tv/matxlabs)
-*   Twitter: [CLICK HERE](https://twitter.com/RealPxLib)
-*   Discord: Mat#5000
-
-> Minecraft Server :
-
-ACTICRAFT:
-*   Website: [CLICK HERE](https://acticraft.net/)
-*   Discord: [CLICK HERE](https://discord.gg/acticraft)
-*   IP: play.acticraft.net
-MYPIXEL
-*   IP: play.mypixel.eu
-
-> Some GitHub stuff:
   
 ![Px's GitHub stats](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=cobalt)
 
