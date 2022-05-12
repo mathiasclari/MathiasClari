@@ -6,6 +6,7 @@
 <h3> About Me:</h3>
 <p>»  Name: Mathias</p>
 <p>»  Age: 18</p>
+<p>»  Sexuality: Straight</p>
 </article>
 <hr>
 <article align="center">
