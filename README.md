@@ -18,6 +18,8 @@
 		<p>»  HDD #1: 1TB</p>
 		<p>»  HDD #2: 2TB</p>
 		<p>»  CASE: NZXT H510 Elite (White)</p>
+	  
+	  <a href="https://wakatime.com/@190d7e17-9dae-4f59-a20c-4d8593b186db"><img src="https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db.svg" alt="Total time coded since Mar 2 2022" /></a>
 </article>
 
 
