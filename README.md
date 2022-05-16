@@ -43,11 +43,11 @@
 
 
 
+[![wakatime](https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db/project/16947215-2a1c-4b7a-9437-00d629843b71.svg)](https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db/project/16947215-2a1c-4b7a-9437-00d629843b71)
 
 
 
 
-<figure><embed src="https://wakatime.com/share/@PxLib/706c4cbf-0ace-4e97-8017-3e1a5a787d05.svg"></embed></figure>
 
 
 
