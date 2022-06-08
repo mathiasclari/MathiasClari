@@ -2,20 +2,26 @@
 ### Introduction 👋
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
   
-  My name is Mathias, i started programming in 2020 My first line of code was written in Pyt
-   I'm currently in highschool, recently i transferred to an Computer Science one. Planning to go to university to study Computer-Related fields.                               
-  I may be more or less active depending on my mood..
+  My name is Mathias, i started programming in 2017 My first program was written in python (Simple Calculator)
+  I am activly coding Java since beggining of 2022.
 
 ### 💻 I’m currently working on ...
 *NOTE: Most of my projects are currently personal, in progress and therebefore, private.*                                              
 *When I think they are ready, I will gladly make them public.*
   - **[Java]**: BeeArmorStands *(Spigot)*
-  - **[Java]**: McBee Organization
+
+### ❤️ I’m working at TechsCode *(Marketing/Social Media)*
+
+### 🧟 I’m Owner/Founder of...
+  - **McBee** 
+  - **BuyActi brand**
   
-### 🌱 I’m currently 4earning ...
+### 🌱 I’m currently learning ...
+  - **Java** *(Learning new things everyday)*
   - **Python** *(Very new to this)*
   - **C++** *(Very new to this)*
   - **React** *(Very new to this)*
+  - **JS** *(Very new to this)*
 
 
 ### 💌 About me: ...
