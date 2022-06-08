@@ -31,4 +31,4 @@
   - Relationship: *Single*
   - 📫 Contact me via email: **support@acticraft.net**
 
-![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
+![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=tokyonight)
