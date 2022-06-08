@@ -16,7 +16,7 @@
   - **McBee** 
   - **BuyActi brand**
   
-### 🌱 I’m currently learning ...
+### 😎 I’m currently learning ...
   - **Java** *(Learning new things everyday)*
   - **Python** *(Very new to this)*
   - **C++** *(Very new to this)*
@@ -30,3 +30,7 @@
   - Age: *18*
   - Relationship: *Single*
   - 📫 Contact me via email: **support@acticraft.net**
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/pxlib)
+
+![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&count_private=true&show_icons=true&title_color=97e097&icon_color=97e097&bg_color=21262d&text_color=c9d1d9&hide_border=true&include_all_commits=true&custom_title=My%20commit%20stats)
