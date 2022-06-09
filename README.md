@@ -11,6 +11,7 @@
   - **[Java]**: BeeArmorStands *(Spigot)*
 
 ### ❤️ I’m working at TechsCode *(Marketing/Social Media)*
+### ❤️ I’m working at Meduza Studios *(Developer)*
 
 ### 🧟 I’m Owner/Founder of...
   - **McBee** 
