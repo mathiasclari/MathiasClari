@@ -34,5 +34,3 @@
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=tokyonight)
 
-
-<iframe src="https://github.com/sponsors/PxLib/card" title="Sponsor PxLib" height="225" width="600" style="border: 0;"></iframe>
