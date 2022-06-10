@@ -34,4 +34,6 @@
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=tokyonight)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&cover_image=true&theme=default&bar_color=66d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&redirect=true)
