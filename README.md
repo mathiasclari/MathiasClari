@@ -10,7 +10,7 @@
 *When I think they are ready, I will gladly make them public.*
   - **[Java]**: BeeArmorStands *(Spigot)*
 
-### &#x1F499; I’m working at TechsCode *(Marketing/Social Media)*
+### &#x1F499; I’m working at TechsCode *(Community Manager)*
 ### 💜 I’m working at Meduza Studios *(Developer)*
 
 ### 🧟 I’m Owner/Founder of...
