@@ -32,6 +32,8 @@
   - Relationship: *Single*
   - 📫 Contact me via email: **support@acticraft.net**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PxLib&theme=tokyonight)](https://git.io/streak-stats)
+
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=tokyonight)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=PxLib&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
