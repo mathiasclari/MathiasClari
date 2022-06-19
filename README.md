@@ -17,10 +17,8 @@
   - **Bee Studios**
   
 ### 😎 I’m currently learning ...
-  - **Java** *(Learning new things everyday)*
-  - **Python** *(Very new to this)*
-  - **C++** *(Very new to this)*
-  - **JS** *(Very new to this)*
+  - **Java** *(App Development)*
+  - **C#** *(Unity)*
 
 
 ### 💌 About me: ...
