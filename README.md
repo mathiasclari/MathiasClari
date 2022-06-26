@@ -16,8 +16,9 @@
   - **Bee Studios**
   
 ### 😎 I’m currently learning ...
-  - **Java** *(App Development)*
-  - **C#** *(Unity)*
+  - **Java** 
+  - **C#**
+  - **Python**
 
 
 ### 💌 About me: ...
