@@ -21,7 +21,7 @@
   - Gender: Male
   - Pronouns: *he/him* 
   - Age: *18*
-  - Relationship: *Single* `sadly`
+  - Relationship: *Single*
   - 📫 Contact me via email: **support@acticraft.net**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PxLib&theme=tokyonight)](https://git.io/streak-stats)
