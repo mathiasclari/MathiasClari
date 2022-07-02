@@ -21,7 +21,7 @@
   - Pronouns: *he/him* 
   - Age: *18*
   - Relationship: *Single*
-  - 📫 Contact me via email: **support@acticraft.net**
+  - 📫 Contact me via email: **mathias@beestudios.eu**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PxLib&theme=tokyonight)](https://git.io/streak-stats)
 
