@@ -8,7 +8,7 @@
 
 ### &#x1F499; I’m working at TechsCode *(Community Manager)*
 
-### &#x1F498; I’m working at Songoda *(Game Developer - BrownieRPG)*
+### 🧡 I’m working at Songoda *(Game Developer - BrownieRPG)*
 
 ### 🧟 I’m Owner/Founder of...
   - **Bee Studios**
