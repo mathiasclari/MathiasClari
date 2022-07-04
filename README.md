@@ -16,6 +16,7 @@
 ### 😎 I’m currently learning ...
   - **Java** 
   - **C#**
+  - **JS**
 
 
 ### 💌 About me: ...
