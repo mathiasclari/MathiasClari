@@ -24,7 +24,7 @@
   - Pronouns: *he/him* 
   - Age: *18*
   - Relationship: *Single*
-  - 📫 Contact me via email: **mathias@beestudios.eu**
+  - 📫 Contact me via email: **mathias@beestudios.eu** - Business purposes only!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PxLib&theme=tokyonight)](https://git.io/streak-stats)
 
