@@ -9,7 +9,7 @@
 <div id="Introduction" align="center">
   <h3> Introduction 👋</h3>
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
-So.. My name is Mathias and I am 18 years old Game Developer who started his coding journey with game called Minecraft. In the middle of June 2022 I officialy quit Minecraft Development and switched to Game Development. I started coding my games in Unity and still do!
+So.. My name is Mathias and I am 18 years old Game Developer who started his coding journey with game called Minecraft. In the middle of June 2022 I officialy quit Minecraft Development and switched to Game Development, and started coding my own games.
 
 I am also learning App Development and Cyber Security
 <hr>
