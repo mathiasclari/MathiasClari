@@ -30,9 +30,7 @@
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=tokyonight)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=PxLib&layout=compact&theme=tokyonight)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PxLib)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=PxLib&layout=compact)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&cover_image=true&theme=default&bar_color=66d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&redirect=true)
 
