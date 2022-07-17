@@ -58,18 +58,18 @@ I am also learning App Development and Cyber Security
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" title="Ph" alt="PH" width="40" height="40"/>&nbsp;
   </div>
   <hr>
-    <h3>Stats</h3>
+    <h3>❤️Stats</h3>
        <p>Here are all my stats</p>
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&cover_image=true&theme=default&bar_color=66d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&redirect=true)
 
-    <hr>
 <article align="center">
   <h3>Joke of a day!</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </article>
+    
 <hr>
 <article align="center">
 <div align="center">
