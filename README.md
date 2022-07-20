@@ -7,7 +7,7 @@
   </div>
   
 <div id="Introduction" align="center">
-  <h3> Introduction 👋</h3>
+  <h3>👋 Introduction</h3>
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
 So.. My name is Mathias and I am 18 years old Game Developer who started his coding journey with game called Minecraft. In the middle of June 2022 I officialy quit Minecraft Development and switched to Game Development, and started coding my own games.
 
@@ -35,24 +35,24 @@ I am also learning App Development and Cyber Security
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
     <hr>
-    <h3>🎮Game Engines I use..</h3>
+    <h3>🎮 Game Engines I use..</h3>
     <img src="https://i.redd.it/tu3gt6ysfxq71.png" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
  <hr>
     
     
   <div align="center">
-  <h3> ✨I am working at...</h3>
+  <h3> ✨ I am working at...</h3>
     <img src="https://techscode.com/images/logo.png" title="TechsCode" alt="TechsCode" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/109436550?s=200&v=4" title="Bee Studios" alt="Bee Studios" width="40" height="40"/>&nbsp;
   </div>
   <hr>
   <div align="center">
-  <h3> 💻What OS am I using</h3>
+  <h3> 💻 What OS am I using</h3>
     <img src="https://static.techspot.com/images2/downloads/topdownload/2021/08/2021-08-12-ts3_thumbs-9cf-p_256.webp" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   </div>
   <hr>
-    <h3>❤️Stats</h3>
+    <h3>❤️ Stats</h3>
        <p>Here are all my stats</p>
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
