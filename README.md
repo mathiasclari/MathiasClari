@@ -52,7 +52,7 @@ I am also learning App Development and Cyber Security
   </div>
   <hr>
     <h3>❤️ Stats</h3>
-       <p>Here are all my stats</p>
+       <p>Here are all my stats...</p>
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
 
