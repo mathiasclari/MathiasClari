@@ -66,7 +66,7 @@ I am also learning App Development and Cyber Security
 <hr>
 <article align="center">
 <div align="center">
-  <h3>🪦Memorial</h3>
+  <h3>🪦Memorial...</h3>
  <p> 18th June 2022 - I retired from Minecraft Plugin/Server Development</p>
   </div>
   </article>
