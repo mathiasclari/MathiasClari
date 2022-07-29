@@ -62,7 +62,13 @@ I am also learning App Development and Cyber Security
   <h3>Joke of a day!</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </article>
-    
+    <article align="center">
+<div align="center">
+  <h3>🪦Goals...</h3>
+ <p>Release a game on Steam</p>
+  </div>
+  </article>
+  <hr>
 <hr>
 <article align="center">
 <div align="center">
