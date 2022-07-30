@@ -64,7 +64,7 @@ I am also learning App Development and Cyber Security
   </article>
     <article align="center">
 <div align="center">
-  <h3>🪦Goals...</h3>
+  <h3>🍹Goals...</h3>
  <p>Release a game on Steam</p>
   </div>
   </article>
