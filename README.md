@@ -66,6 +66,9 @@ I am also learning App Development and Cyber Security
 <div align="center">
   <h3>🍹Future Goals...</h3>
  <p>Release a game on Steam</p>
+ <p>Finish School</p>
+ <p>Buy Lotus Emira</p>
+ <p>Become Guilded partner</p>
   </div>
   </article>
   <hr>
