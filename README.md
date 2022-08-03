@@ -68,6 +68,7 @@ I am also learning App Development and Cyber Security
  <p>Release a game on Steam</p>
  <p>Finish School</p>
  <p>Buy Lotus Emira</p>
+ <p>Learn Ethical Hacking</p>
  <p>Become Guilded partner</p>
   </div>
   </article>
