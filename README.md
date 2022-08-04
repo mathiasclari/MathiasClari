@@ -69,7 +69,6 @@ I am also learning App Development and Cyber Security
  <p>Finish School</p>
  <p>Buy Lotus Emira</p>
  <p>Learn Ethical Hacking</p>
- <p>Become Guilded partner</p>
   </div>
   </article>
   <hr>
