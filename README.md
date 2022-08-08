@@ -43,6 +43,7 @@ I am also learning App/Game Development and Cyber Security
   <h3> ✨ I am working at...</h3>
     <img src="https://techscode.com/images/logo.png" title="TechsCode" alt="TechsCode" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/109436550?s=200&v=4" title="Bee Studios" alt="Bee Studios" width="40" height="40"/>&nbsp;
+    <img src="https://rabbit-company.com/images/logo.png" title="RabbitCompany" alt="Bee Studios" width="40" height="40"/>&nbsp;
   </div>
   <hr>
   <div align="center">
