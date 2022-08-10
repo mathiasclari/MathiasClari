@@ -32,6 +32,10 @@ I am also learning App/Game Development and Cyber Security
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://bestofjs.org/logos/nextjs.dark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
+    <img src="http://rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+    <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
 </div>
     <hr>
     <h3>🎮 Game Engines I use..</h3>
