@@ -50,12 +50,6 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
     <img src="https://rabbit-company.com/images/logo.png" title="RabbitCompany" alt="Bee Studios" width="40" height="40"/>&nbsp;
   </div>
   <hr>
-  <div align="center">
-  <h3> 💻 What OS am I using...</h3>
-    <img src="https://static.techspot.com/images2/downloads/topdownload/2021/08/2021-08-12-ts3_thumbs-9cf-p_256.webp" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  </div>
-  <hr>
     <h3>❤️ Stats</h3>
        <p>Here are all my stats...</p>
 
@@ -75,7 +69,6 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
  <p>Learn Ethical Hacking</p>
   </div>
   </article>
-  <hr>
 <hr>
 <article align="center">
 <div align="center">
