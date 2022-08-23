@@ -46,7 +46,6 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
   <div align="center">
   <h3> ✨ I am working at...</h3>
     <img src="https://techscode.com/images/logo.png" title="TechsCode" alt="TechsCode" width="40" height="40"/>&nbsp;
-
     <img src="https://rabbit-company.com/images/logo.png" title="RabbitCompany" alt="Bee Studios" width="40" height="40"/>&nbsp;
   </div>
   <hr>
