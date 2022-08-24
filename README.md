@@ -24,7 +24,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
 </div>
   <hr>
   <div align="center">
- <h3>😎 I’m currently coding in ...
+ <h3>😎 I’m currently coding with ...
   </div>
   <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
