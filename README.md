@@ -24,7 +24,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
 </div>
   <hr>
   <div align="center">
- <h3>😎 I’m currently coding with ...
+ <h3>😎 I’m currently coding with...</h3>
   </div>
   <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -45,8 +45,8 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
     <img src="https://rabbit-company.com/images/logo.png" title="RabbitCompany" alt="Bee Studios" width="40" height="40"/>&nbsp;
   </div>
   <hr>
-    <h3>❤️ Stats</h3>
-       <p>Here are all my stats...</p>
+    <h3>❤️ Stats...</h3>
+       <p>Here are all my stats</p>
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
 
@@ -67,7 +67,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
 <hr>
 <article align="center">
 <div align="center">
-  <h3>🪦Memorial ...</h3>
+  <h3>🪦Memorial...</h3>
  <p>Grandpa -> https://it.wikipedia.org/wiki/Bozza:Clari_Claudio </p>
   </div>
   </article>
