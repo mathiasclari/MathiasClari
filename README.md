@@ -53,7 +53,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&cover_image=true&theme=default&bar_color=66d9ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=vhi55e1fsjn7f3tme4d1q66gj&redirect=true)
 
 <article align="center">
-  <h3>Joke of a day ...</h3>
+  <h3>Joke of a day...</h3>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </article>
     <article align="center">
