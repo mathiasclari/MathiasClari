@@ -68,7 +68,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
 <article align="center">
 <div align="center">
   <h3>🪦Memorial...</h3>
- <p>Grandpa -> https://it.wikipedia.org/wiki/Bozza:Clari_Claudio </p>
+ <p>Grandpa -> https://it.wikipedia.org/wiki/Bozza:Clari_Claudio [Artist] </p>
   </div>
   </article>
   <hr>
