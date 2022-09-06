@@ -36,6 +36,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="Tensoflow" alt="Tensoflow" width="40" height="40"/>&nbsp;
 </div>
  <hr>
     
