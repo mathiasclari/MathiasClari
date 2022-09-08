@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Bee-Studios/Banding/blob/main/BBpng.png?raw=true" width="300"/>
+  <img src="https://avatars.githubusercontent.com/u/107810323?s=200&v=4" width="200"/>
 <br>
 </div>
 
