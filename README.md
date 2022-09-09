@@ -1,12 +1,9 @@
-<div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/107810323?s=200&v=4" width="200"/>
-<br>
-</div>
+
 
 <div id="stats" align="center">
   <img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=blue" alt=""/>
   </div>
-  
+  <hr>
 <div id="Introduction" align="center">
   <h3>👋 Introduction...</h3>
   Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
