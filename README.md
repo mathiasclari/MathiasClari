@@ -1,5 +1,7 @@
 <div id="stats" align="center">
-<img src="https://github.com/PxLib/SomeIcons/blob/main/GitAstroCat.png?raw=true" title="Trello" alt="Trello" height="350"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/GitAstroCat.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/Business.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/Casual.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
 <div id="stats" align="center">
 <img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=blue" alt=""/>
   </div>
