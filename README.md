@@ -1,7 +1,7 @@
 <div id="stats" align="center">
-<img src="https://github.com/PxLib/SomeIcons/blob/main/GitAstroCat.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
-<img src="https://github.com/PxLib/SomeIcons/blob/main/Business.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
-<img src="https://github.com/PxLib/SomeIcons/blob/main/Casual.png?raw=true" title="Trello" alt="Trello" height="250"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/GitAstroCat.png?raw=true" height="250"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/Business.png?raw=true"height="250"/>&nbsp;
+<img src="https://github.com/PxLib/SomeIcons/blob/main/Casual.png?raw=true"height="250"/>&nbsp;
 <div id="stats" align="center">
 <img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=blue" alt=""/>
   </div>
@@ -26,6 +26,7 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
   <hr>
   <div align="center">
  <h3>😎 I’m currently coding with...</h3>
+
   </div>
   <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -74,6 +75,9 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
   </div>
   </article>
   <hr>
+  <div>
+<img src="https://octodex.github.com/images/class-act.png" height="250">
+</div>
   <p align="center">
     &copy;PxLib 2022
 </p>
