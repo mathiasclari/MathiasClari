@@ -60,13 +60,6 @@ So.. My name is Mathias and I am 18 years old Game Developer who started his cod
   </article>
     <article align="center">
 <div align="center">
-  <h3>🍹Future Goals...</h3>
- <p>Release a game on Steam</p>
- <p>Buy Lotus Emira</p>
- <p>Learn AIs</p>
- <p>Learn Ethical Hacking</p>
-  </div>
-  </article>
 <hr>
 <article align="center">
 <div align="center">
