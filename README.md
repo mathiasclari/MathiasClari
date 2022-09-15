@@ -9,8 +9,7 @@
   <hr>
 <div id="Introduction" align="center">
   <h3>👋 Introduction...</h3>
-  Hello!, here is some more info about me and my current projects. Sorry if it's too much, you don't really need to read all of that.
-So.. My name is Mathias and I am 18 years old Game Developer who started his coding journey with game called Minecraft.My work -> Game Development, and Softwere Development!
+Hello! My name is Mathias and I am 18 years old Content Creator who is mostly coding and learning new coding languages. I wrote my first line of code in 2017 (Python) and than because of leak of interest stop coding for about 2 years. I gave my self a challenge to code everyday for 1 year which got me very interested into world of coding. I started coding in Java programming language (Minecraft Plugins) and later progress to React /  NextJS / SQL / Python . I am very interested into Python AI development. 
 
 <hr>
 <h3> 💻I use this programs...</h3>
