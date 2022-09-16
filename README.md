@@ -52,7 +52,9 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 
 <article align="center">
   <h3>Joke of a day...</h3>
+  
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
   </article>
     <article align="center">
 <div align="center">
