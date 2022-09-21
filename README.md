@@ -70,5 +70,5 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 <img src="https://octodex.github.com/images/class-act.png" height="150">
 </div>
   <p align="center">
-    &copy;PxLib 2022
+    &copy;PxLib INC 2022
 </p>
