@@ -39,9 +39,6 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
     
     
   <div align="center">
-  <h3> ✨ I am working at...</h3>
-    <img src="https://techscode.com/images/logo.png" title="TechsCode" alt="TechsCode" width="40" height="40"/>&nbsp;
-  </div>
   <hr>
     <h3>❤️ Stats...</h3>
        <p>Here are all my stats.</p>
