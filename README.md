@@ -8,11 +8,11 @@
   </div>
   <hr>
 <div id="Introduction" align="center">
-  <h3>👋 Introduction...</h3>
+  <h3>👋 Introduction</h3>
 Hello! My name is Mathias and I am 18 years old Content Creator who is mostly coding and learning new coding languages. I wrote my first line of code in 2017 (Python) and than because of leak of interest stop coding for about 2 years. I gave my self a challenge to code everyday for 1 year which got me very interested into world of coding. I started coding in Java programming language (Minecraft Plugins) and later progress to React /  NextJS / SQL / Python . I am very interested into Python AI development. 
 
 <hr>
-<h3> 💻I use this programs...</h3>
+<h3> 💻I use this programs</h3>
 <div align="center">
     <img src="https://www.pinclipart.com/picdir/big/373-3734150_trello-clickup-trello-icon-png-clipart.png" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 </div>
   <hr>
   <div align="center">
- <h3>😎 I’m currently coding with...</h3>
+ <h3>😎 I’m currently coding with</h3>
 
   </div>
   <div align="center">
@@ -40,7 +40,7 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
     
   <div align="center">
   <hr>
-    <h3>❤️ Stats...</h3>
+    <h3>❤️ Stats</h3>
        <p>Here are all my stats.</p>
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
@@ -56,7 +56,7 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 <hr>
 <article align="center">
 <div align="center">
-  <h3>🪦Memorial...</h3>
+  <h3>🪦Memorial</h3>
  <p>Grandpa -> https://it.wikipedia.org/wiki/Bozza:Clari_Claudio [Artist] </p>
   </div>
   </article>
