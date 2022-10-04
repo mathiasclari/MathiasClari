@@ -56,7 +56,7 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 <hr>
 <article align="center">
 <div align="center">
-  <h3>🪦Memorial</h3>
+  <h3>Memorial</h3>
  <p>Grandpa -> https://it.wikipedia.org/wiki/Bozza:Clari_Claudio [Artist] </p>
   </div>
   </article>
