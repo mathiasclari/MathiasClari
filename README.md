@@ -3,7 +3,7 @@
 <img src="https://github.com/PxLib/SomeIcons/blob/main/Business.png?raw=true"height="250"/>&nbsp;
 <img src="https://github.com/PxLib/SomeIcons/blob/main/Casual.png?raw=true"height="250"/>&nbsp;
 <div id="stats" align="center">
-<img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=yellow" alt=""/>
   </div>
   </div>
   <hr>
