@@ -35,7 +35,6 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
     <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="Java Script" alt="Java Script" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" title="Tensoflow" alt="Tensoflow" width="40" height="40"/>&nbsp;
 </div>
- <hr>
     
     
   <div align="center">
