@@ -24,7 +24,7 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
 </div>
   <hr>
   <div align="center">
- <h3>😎 I’m currently coding with</h3>
+ <h3>😎 I’m currently coding with </h3>
 
   </div>
   <div align="center">
