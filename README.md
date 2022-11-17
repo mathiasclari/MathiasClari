@@ -23,8 +23,6 @@ Hello! My name is Mathias and I am 18 years old Content Creator who is mostly co
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
 </div>
   <hr>
-  <a rel="me" href="https://mstdn.social/@mathiasclari">Mastodon</a>
-  <hr>
   <div align="center">
  <h3>😎 I’m currently coding with </h3>
 
