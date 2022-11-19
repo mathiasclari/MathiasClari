@@ -9,7 +9,7 @@
   <hr>
 <div id="Introduction" align="center">
   <h3>👋 Introduction </h3>
-Hello! My name is Mathias and I am 18 years old Content Creator who is mostly coding and learning new coding languages. I wrote my first line of code in 2017 (Python) and than because of leak of interest stop coding for about 2 years. I gave my self a challenge to code everyday for 1 year which got me very interested into world of coding. I started coding in Java programming language (Minecraft Plugins) and later progress to React /  NextJS / SQL / Python . I am very interested into Python AI development. 
+Hello! My name is Mathias, I am coming from small country called Slovenia. 
 
 <hr>
 <h3> 💻I use this programs</h3>
