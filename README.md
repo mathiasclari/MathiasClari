@@ -44,6 +44,9 @@ Hello! My name is Mathias, I am coming from small country called Slovenia.
 
 ![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlib&langs_count=8&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+
 <article align="center">
   <h3>Joke of a day...</h3>
   
