@@ -3,7 +3,7 @@
 <img src="https://github.com/PxLib/SomeIcons/blob/main/Business.png?raw=true"height="250"/>&nbsp;
 <img src="https://github.com/PxLib/SomeIcons/blob/main/Casual.png?raw=true"height="250"/>&nbsp;
 <div id="stats" align="center">
-<img src="https://komarev.com/ghpvc/?username=PxLib&style=flat-square&color=yellow" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MathiasClari&style=flat-square&color=yellow" alt=""/>
   </div>
   </div>
   <hr>
@@ -42,10 +42,10 @@ Hello! My name is Mathias, I am coming from small country called Slovenia.
     <h3>❤️ Stats</h3>
        <p>Here are all my stats.</p>
 
-![My contributions](https://github-readme-stats.vercel.app/api?username=PxLib&show_icons=true&theme=discord_old_blurple)
+![My contributions](https://github-readme-stats.vercel.app/api?username=MathiasClari&show_icons=true&theme=discord_old_blurple)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxlib&langs_count=8&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasClari&langs_count=8&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 <article align="center">
   <h3>Joke of a day...</h3>
