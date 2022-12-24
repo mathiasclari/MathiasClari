@@ -43,6 +43,7 @@ Hello! My name is Mathias. I am from a small country called Slovenia. I am curre
 | Photography |
 | Videography |
 | Music |
+| Gaming |
 
 ## Contacts
 
