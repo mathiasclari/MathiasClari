@@ -1,8 +1,7 @@
 # Mathias Clari Drenik
 
-[![Your Profile Picture](https://avatars.githubusercontent.com/u/66589714?s=400&u=7b8ad537a3a90645444997ddad69ae50b3f89166&v=4)](https://mathiasclari.xyz)
-
-Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people!
+|Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people!|
+|----|
 
 ## Skills
 
