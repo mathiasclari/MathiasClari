@@ -34,7 +34,7 @@ Hello! My name is Mathias. I am from a small country called Slovenia. I am curre
 
 | Field of Study | Graduation Date | Institution |
 | ------------- | --------------- | ----------- |
-| Computer Scientist | [2022] | [SCNG-ERS](https://ers.scng.si/) |
+| Computer Scientist | 2022 | [SCNG-ERS](https://ers.scng.si/) |
 
 ## Hobbies
 
