@@ -18,9 +18,9 @@ Hello! My name is Mathias. I am from a small country called Slovenia. I am curre
 
 | Title | Description | Role | Technologies |
 | ----- | ----------- | ---- | ------------ |
-| [Possiest](https://discord.possiest.com) | A brief description of the project | Developer/Owner | Java, SQL , Redis, SpigotAPI |
-| [McMickeyLand](https://discord.gg/AeCywmdfjX) | A brief description of the project | Developer | Java, SQL, SpigotAPI |
-| [JeraCraft](https://discord.gg/ue7b7wGx5t) | A brief description of the project | Developer | Java, SQL , Redis, SpigotAPI |
+| [Possiest](https://discord.possiest.com) | Minecraft Server | Developer/Owner | Java, SQL , Redis, SpigotAPI |
+| [McMickeyLand](https://discord.gg/AeCywmdfjX) | Minecraft Server | Developer | Java, SQL, SpigotAPI |
+| [JeraCraft](https://discord.gg/ue7b7wGx5t) | Minecraft Server | Developer | Java, SQL , Redis, SpigotAPI |
 
 ## Experience
 
