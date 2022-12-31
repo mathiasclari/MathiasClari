@@ -10,7 +10,7 @@
 | Java |  Redis |
 | SQL | ProtoBuf |
 | HTML | Vue |
-| PHP | Carbon( Once its released ) |
+| PHP | Carbon (Once its released) |
 | Python | C++ |
 
 ## Projects
