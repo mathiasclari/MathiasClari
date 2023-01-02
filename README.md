@@ -43,6 +43,7 @@
 | Videography |
 | Music |
 | Gaming |
+| Traveling |
 
 ## Contacts
 
