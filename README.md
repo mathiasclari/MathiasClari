@@ -1,5 +1,4 @@
 # Mathias Clari Drenik
-
 |Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people!|
 |----|
 
@@ -12,6 +11,8 @@
 | HTML | Vue |
 | PHP | Carbon (Once its released) |
 | Python | C++ |
+
+[![wakatime](https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db.svg)](https://wakatime.com/@190d7e17-9dae-4f59-a20c-4d8593b186db)
 
 ## Projects
 
