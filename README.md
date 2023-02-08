@@ -1,6 +1,6 @@
 
 # Mathias Clari Drenik
-|Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people!|
+|Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people! |
 |----|
 
 ## Skills
