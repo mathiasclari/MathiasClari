@@ -35,7 +35,7 @@
 
 | Field of Study | Graduation Date | Institution |
 | ------------- | --------------- | ----------- |
-| Computer Scientist | 2022 | [SCNG-ERS](https://ers.scng.si/) |
+| Computer Scientist | 2023 | [SCNG-ERS](https://ers.scng.si/) |
 
 ## Hobbies
 
