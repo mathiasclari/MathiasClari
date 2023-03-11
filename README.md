@@ -19,9 +19,7 @@
 
 | Title | Description | Role | Technologies |
 | ----- | ----------- | ---- | ------------ |
-| [Possiest Games](https://discord.possiest.com) | Game Development | Founder | C++ |
-| [Possiest](https://discord.possiest.com) | Minecraft Server | Developer/Owner | Java, SQL , Redis, SpigotAPI |
-| [JeraCraft](https://discord.gg/ue7b7wGx5t) | Minecraft Server | Developer | Java, SQL , Redis, SpigotAPI |
+| [Possiest Studios](https://discord.possiest.com) | Game Development | Founder | C++ |
 
 ## Experience
 
