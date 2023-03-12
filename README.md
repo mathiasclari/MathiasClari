@@ -45,6 +45,7 @@
 | Music |
 | Gaming |
 | Traveling |
+| Gaming |
 
 ## Contacts
 
