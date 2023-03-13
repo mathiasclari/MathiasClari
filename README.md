@@ -5,14 +5,14 @@
 
 ## Skills
 
-| Language | Planing to learn |
+| I code with | I am learning |
 | ----- | -----------|
-| Java |  Redis |
-| SQL | ProtoBuf |
-| HTML | Vue |
-| PHP | Carbon (Once its released) |
+| Java |  C# |
+| SQL | node.js |
+| HTML | Ruby |
+| PHP | Next.js |
 | Python | C++ |
-| React | Electron |
+| React.js | Electron |
 
 [![wakatime](https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db.svg)](https://wakatime.com/@190d7e17-9dae-4f59-a20c-4d8593b186db)
 
