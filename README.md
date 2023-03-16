@@ -3,7 +3,7 @@
 |Hello! My name is Mathias. I am from a small country called Slovenia. I am currently moving a lot, but I am always open to meeting new amazing people! |
 |----|
 
-## Skills
+### Skills
 
 | I code with | I am learning |
 | ----- | -----------|
@@ -16,13 +16,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/190d7e17-9dae-4f59-a20c-4d8593b186db.svg)](https://wakatime.com/@190d7e17-9dae-4f59-a20c-4d8593b186db)
 
-## Projects
+### Projects
 
 | Title | Description | Role | Technologies |
 | ----- | ----------- | ---- | ------------ |
 | [Possiest Studios](https://discord.possiest.com) | Game Development | Founder | C++ |
 
-## Experience
+### Experience
 
 | Company/Organization | Job Title | Dates |
 | -------------------- | --------- | ----- |
@@ -30,13 +30,13 @@
 | [Songoda](https://www.songoda.com/) | Developer | 2022 |
 | [RabbitCompany](https://rabbit-company.com/) | Developer | 2022 |
 
-## Education
+### Education
 
 | Field of Study | Graduation Date | Institution |
 | ------------- | --------------- | ----------- |
 | Computer Scientist | 2023 | [SCNG-ERS](https://ers.scng.si/) |
 
-## Hobbies
+### Hobbies
 
 | Hobby |
 |----|
@@ -47,7 +47,7 @@
 | Traveling |
 | Gaming |
 
-## Contacts
+### Contacts
 
 | Contact | Profile |
 | ------------ | ------- |
