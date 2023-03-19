@@ -31,14 +31,12 @@ while(dev.isCoding())
 
 ## About Me
 
-- 🔭 I’m currently working on [Possiest Studios](https://discord.possiest.com), a game development studio that I founded
+- 🔭 I’m currently working on [Possiest Studios](https://possiest.com), a game development studio that I founded
 - 🌱 I’m currently learning Next.js and React Native
 - 👯 I’m looking to collaborate on any interesting projects related to web development or game development
-- 🤔 I’m looking for help with deploying my Next.js app to GitHub Pages
 - 💬 Ask me anything about Java, C#, Next.js or game development
-- 📫 How to reach me: mathiasclari@gmail.com
+- 📫 How to reach me: pxlib@proton.me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love playing chess and solving puzzles
 
 
 ## Contact Me
