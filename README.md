@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="https://schmelto.github.io/Portfolio/">Mathias</a>!</h1>
+<h1 align="center">Hi there👋, I'm <a href="https://mathiasclari.xyz">Mathias</a>!</h1>
 <h3 align="center">A developer from Slovenia.</h3>
 <p align="center">613363032046698507</p>
 
