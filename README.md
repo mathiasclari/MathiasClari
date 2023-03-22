@@ -42,5 +42,5 @@ while(dev.isCoding())
 ## Contact Me
 
 <a href ="mailto:pxlib@proton.me"><img src='https://img.icons8.com/color/48/000000/gmail.png'/></a>
-<a href ="https://twitter.com/MathiasClari"><img src='https://img.icons8.com/color/48/000000/twitter.png'/></a>
+<a href ="https://twitter.com/Matonsocials"><img src='https://img.icons8.com/color/48/000000/twitter.png'/></a>
 <a href ="https://www.linkedin.com/in/mathiasclari/"><img src='https://img.icons8.com/color/48/000000/linkedin.png'/></a>
