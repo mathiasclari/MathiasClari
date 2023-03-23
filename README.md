@@ -16,14 +16,15 @@ while(dev.isCoding())
 ```
 ## Skills
 <p align="center">
+<img src="https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust&logoColor=white" alt="Java badge">
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
-<img src="https://img.shields.io/badge/C%23-blueviolet?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
+<img src="https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nuxt-dot-js&logoColor=cyan" alt ="Next.js badge">
 <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL badge">
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge">
 <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-<img src="https://img.shields.io/badge/React.js-green?style=for-the-badge&logo=react&logoColor=white" alt="React.js badge">
+<img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js badge">
 <img src="https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge">
 </p>
 
