@@ -16,16 +16,7 @@ while(dev.isCoding())
 ```
 ## Skills
 <p align="center">
-<img src="https://img.shields.io/badge/Rust-brown?style=for-the-badge&logo=rust&logoColor=white" alt="Java badge">
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
-<img src="https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# badge">
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nuxt-dot-js&logoColor=cyan" alt ="Next.js badge">
-<img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL badge">
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge">
-<img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge">
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Python badge">
-<img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js badge">
-<img src="https://img.shields.io/badge/node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js badge">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&lineCount=5&theme=catppuccin_mocha&line1=java,java,faafbd;JavaScript,JavaScript,4cba9c;electron,electron,fed1df;css3,css3,4528dc;&line2=typescript,typescript,e72dbe;html5,html5,c8699a;python,python,a4d383;babel,babel,e42c48;&line3=C++,C++,2528e6;tailwindcss,tailwindcss,3de4b8;rust,rust,7f379f;bootstrap,bootstrap,e09649;&line4=C#,C#,0473ba;PHP,PHP,16d269;GIT,GIT,fa55fa;node.js,node.js,98c59e;&line5=NEXT.JS,NEXT.JS,f8bd48;MARIADB,MARIADB,809284;MYSQL,MYSQL,4c8c19;" alt="My Tech Stack" />
 </p>
 
 
@@ -40,8 +31,9 @@ while(dev.isCoding())
 - 😄 Pronouns: he/him
 
 
-## Contact Me
 
-<a href ="mailto:pxlib@proton.me"><img src='https://img.icons8.com/color/48/000000/gmail.png'/></a>
-<a href ="https://twitter.com/Matonsocials"><img src='https://img.icons8.com/color/48/000000/twitter.png'/></a>
-<a href ="https://www.linkedin.com/in/mathiasclari/"><img src='https://img.icons8.com/color/48/000000/linkedin.png'/></a>
+
+## Contact Me
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Social%20Media%20%7C%20@matonsocials&align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&line1=Twitter,Twitter,fb795b;Instagram,Instagram,e53cb5;" alt="My Tech Stack" />
+</p>
