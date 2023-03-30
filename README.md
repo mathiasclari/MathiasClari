@@ -17,6 +17,9 @@ while(dev.isCoding())
 ## Skills
 <p align="center">
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&lineCount=5&theme=catppuccin_mocha&line1=java,java,faafbd;JavaScript,JavaScript,4cba9c;electron,electron,fed1df;css3,css3,4528dc;&line2=typescript,typescript,e72dbe;html5,html5,c8699a;python,python,a4d383;babel,babel,e42c48;&line3=C++,C++,2528e6;tailwindcss,tailwindcss,3de4b8;rust,rust,7f379f;bootstrap,bootstrap,e09649;&line4=C#,C#,0473ba;PHP,PHP,16d269;GIT,GIT,fa55fa;node.js,node.js,98c59e;&line5=NEXT.JS,NEXT.JS,f8bd48;MARIADB,MARIADB,809284;MYSQL,MYSQL,4c8c19;" alt="My Tech Stack" />
+
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MathiasClari/5d520e96-dda3-4b10-95d5-b3539e557aa8.png" /></a>
 </p>
 
 
