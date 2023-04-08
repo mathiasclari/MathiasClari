@@ -29,7 +29,7 @@ while(dev.isCoding())
 - 🔭 I’m currently working on [Possiest Studios](https://possiest.com), a game development studio that I founded
 - 🌱 I’m currently learning Next.js and React Native
 - 👯 I’m looking to collaborate on any interesting projects related to web development or game development
-- 💬 Ask me anything about Java, C#, Next.js or game development
+- 💬 Ask me anything about Java, C++, Next.js or game development
 - 📫 How to reach me: pxlib@proton.me
 - 😄 Pronouns: he/him
 
