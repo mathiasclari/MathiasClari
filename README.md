@@ -39,6 +39,4 @@ while(dev.isCoding())
 ## Contact Me
 <p align="center">
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Social%20Media%20%7C%20@matonsocials&align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&line1=Twitter,Twitter,fb795b;Instagram,Instagram,e53cb5;" alt="My Tech Stack" />
-
-<a rel="me" href="https://mastodon.social/invite/AryoT2Dw">Try Mastodon</a>
 </p>
