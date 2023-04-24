@@ -33,6 +33,8 @@ while(dev.isCoding())
 - 📫 How to reach me: pxlib@proton.me
 - 😄 Pronouns: he/him
 
+<kbd><3</kbd>
+
 
 
 
