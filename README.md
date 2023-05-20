@@ -1,44 +1,36 @@
-<h1 align="center">Hi there👋, I'm <a href="https://mathiasclari.xyz">Mathias</a>!</h1>
-<h3 align="center">A developer from Slovenia.</h3>
-<p align="center">613363032046698507</p>
+## Hey there! 👋
 
-```js
-const name = 'Mathias ';
+I'm Mathias Clari Drenik, a passionate developer specializing in Java, TypeScript, JavaScript, CSS, and HTML. I primarily use VITE for web development and have experience working with various frameworks and libraries.
 
-Developer dev = new Developer(name);
+### 🔭 Projects
 
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openBingAi();
-  dev.drinkTea();
-}
-```
-## Skills
-<p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&lineCount=5&theme=catppuccin_mocha&line1=java,java,faafbd;JavaScript,JavaScript,4cba9c;electron,electron,fed1df;css3,css3,4528dc;&line2=typescript,typescript,e72dbe;html5,html5,c8699a;python,python,a4d383;babel,babel,e42c48;&line3=C++,C++,2528e6;tailwindcss,tailwindcss,3de4b8;rust,rust,7f379f;bootstrap,bootstrap,e09649;&line4=C#,C#,0473ba;PHP,PHP,16d269;GIT,GIT,fa55fa;node.js,node.js,98c59e;&line5=NEXT.JS,NEXT.JS,f8bd48;MARIADB,MARIADB,809284;MYSQL,MYSQL,4c8c19;" alt="My Tech Stack" />
+- [Possiest](https://possiest.com): Game development team using Unreal Engine. Currently working on "LostEraRedemption".
 
+- [SkyPieaMC](https://github.com/MathiasClari): My Minecraft server in early development. (No website linked yet)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@MathiasClari/5d520e96-dda3-4b10-95d5-b3539e557aa8.png" /></a>
-</p>
+- [Noximity](https://noximity.com): Minecraft plugin development team striving to enhance the Minecraft experience through innovative plugins.
 
+- [Pipebomb](https://pipebomb.com): Contributing to UI and UX design.
 
+### 🌟 Contributions
 
-## About Me
+- [Cosmetica](https://cosmetica.cc): Provided Slovenian translation support.
 
-- 🔭 I’m currently working on [Possiest Studios](https://possiest.com), a game development studio that I founded
-- 🌱 I’m currently learning Next.js and React Native
-- 👯 I’m looking to collaborate on any interesting projects related to web development or game development
-- 💬 Ask me anything about Java, C++, Next.js or game development
-- 📫 How to reach me: pxlib@proton.me
-- 😄 Pronouns: he/him
+### 💼 Work Experience
 
-<kbd><3</kbd>
+- **Songoda** (Developer): Worked on the BrownieRPG project. Visit [Songoda](https://songoda.com) for more information.
 
+- **TechsCode** (Marketing Team, Community Manager): Managed marketing initiatives and community engagement.
 
+- **JeraCraft** (Developer): Actively contributed to the development of JeraCraft Minecraft server.
 
+- **RabbitCompany LLC** (Developer): Collaborated on various open-source projects. Visit [RabbitCompany LLC](https://rabbit-company.com) for more details.
 
-## Contact Me
-<p align="center">
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Social%20Media%20%7C%20@matonsocials&align=center&titleAlign=center&lineCount=1&theme=catppuccin_mocha&line1=Twitter,Twitter,fb795b;Instagram,Instagram,e53cb5;" alt="My Tech Stack" />
-</p>
+### 📫 Let's Connect!
+
+Feel free to reach out to me via the following channels:
+
+- Email: [pxlib@proton.me]
+- Twitter: [@matonsocials]
+
+Let's connect and collaborate on exciting projects!
