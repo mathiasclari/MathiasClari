@@ -10,7 +10,7 @@ I'm Mathias Clari Drenik, a passionate developer specializing in Java, TypeScrip
 
 - [Noximity](https://noximity.com): Minecraft plugin development team striving to enhance the Minecraft experience through innovative plugins.
 
-- [Pipebomb](https://pipebomb.com): Contributing to UI and UX design.
+- [Pipebomb](https://pipebomb.net): Contributing to UI and UX design.
 
 ### 🌟 Contributions
 
