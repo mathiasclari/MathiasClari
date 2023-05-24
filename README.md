@@ -12,6 +12,8 @@ I'm Mathias Clari Drenik, a passionate developer specializing in Java, TypeScrip
 
 - [Pipebomb](https://pipebomb.net): Contributing to UI and UX design.
 
+- [SkyKingdoms](https://discord.gg/buruwhmRFr): Developing for Minecraft server Sky Kingdoms
+
 ### 🌟 Contributions
 
 - [Cosmetica](https://cosmetica.cc): Provided Slovenian translation support.
