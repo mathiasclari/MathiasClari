@@ -14,6 +14,8 @@ I'm Mathias Clari Drenik, a passionate developer specializing in Java, TypeScrip
 
 - [SkyKingdoms](https://discord.gg/buruwhmRFr): Developing for Minecraft server Sky Kingdoms
 
+- [GamerHubSi](https://discord.gg/YcPU2McHtR): Administration team
+
 ### 🌟 Contributions
 
 - [Cosmetica](https://cosmetica.cc): Provided Slovenian translation support.
