@@ -7,7 +7,7 @@ I'm Mathias, a 19-year-old from Slovenia with Slovenian and Italian nationalitie
 
 💻 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,react,vite,mysql,sqlite,nestjs,css,html,php,cs,python,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,react,vite,mysql,sqlite,css,html,git,md)](https://skillicons.dev)
 
 👨‍💻 **Development Tools**
 
