@@ -1,44 +1,63 @@
-## Mathias Clari Drenik
+# Mathias Clari Drenik
 
-🙋‍♂️ **About me**
+## About Me
 
-I'm Mathias, a 19-year-old from Slovenia with Slovenian and Italian nationalities. I enjoy gaming, connecting with people, and learning new programming languages. I'm passionate about exploring technology and expanding my coding skills. Excited for new opportunities and growth!
+I'm Mathias, a 19-year-old from Slovenia with Slovenian and Italian nationalities. I'm passionate about exploring technology, gaming, connecting with people, and learning new programming languages. I enjoy expanding my coding skills, and I'm always excited about new opportunities and growth!
 
+## Skills
 
-💻 **Skills**
+- 💻 **Programming Languages**:
+  
+  ![Java](https://img.shields.io/badge/Java-%20-orange?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%20-orange?style=for-the-badge&logo=javascript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-%20-orange?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%20-orange?style=for-the-badge&logo=python&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,nodejs,react,vite,mysql,sqlite,css,html,git,md)](https://skillicons.dev)
+- 🌐 **Web Development**:
+  
+  ![HTML](https://img.shields.io/badge/HTML-%20-blue?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%20-blue?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%20-blue?style=for-the-badge&logo=react&logoColor=white)
+  ![React](https://img.shields.io/badge/Vite-%20-blue?style=for-the-badge&logo=vite&logoColor=white)
 
-👨‍💻 **Development Tools**
+- ⚙️ **Backend Development**:
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-%20-lightgrey?style=for-the-badge&logo=node-dot-js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-%20-lightgrey?style=for-the-badge&logo=express&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,visualstudio)](https://skillicons.dev)
+- 🗄️ **Database**:
+  
+  ![MySQL](https://img.shields.io/badge/MySQL-%20-green?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-%20-green?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%20-green?style=for-the-badge&logo=mongodb&logoColor=white)
 
-🔭 **Projects**
+- 📚 **Version Control**:
+  
+  ![Git](https://img.shields.io/badge/Git-%20-blueviolet?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%20-blueviolet?style=for-the-badge&logo=github&logoColor=white)
 
-- [Possiest](https://possiest.com): Game development team using Unreal Engine. Currently working on "LostEraRedemption".
-- [SkyPieaMC](https://github.com/MathiasClari): My Minecraft server in early development. (No website linked yet)
-- [Noximity](https://noximity.com): Minecraft plugin development team striving to enhance the Minecraft experience through innovative plugins.
-- [Pipebomb](https://pipebomb.net): Contributing to UI and UX design.
-- [SkyKingdoms](https://discord.gg/buruwhmRFr): Developing for Minecraft server Sky Kingdoms.
-- [GamerHubSi](https://discord.gg/YcPU2McHtR): Administration team.
+- 🛠️ **Development Tools**:
+  
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%20-yellow?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%20-yellow?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![CLion](https://img.shields.io/badge/CLion-%20-yellow?style=for-the-badge&logo=clion&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%20-yellow?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-🌟 **Contributions**
+## Projects
 
-- [Cosmetica](https://cosmetica.cc): Provided Slovenian translation support.
+- 🎮 [Possiest](https://possiest.com): Game development team using Unreal Engine. Currently working on "secret game".
+- ☁️ SkyPieaMC: My Minecraft server in early development. (No website linked yet)
+- 🟣 [Noximity](https://noximity.com): Minecraft plugin development team striving to enhance the Minecraft experience through innovative plugins.
+- Pipebomb: Contributing to UI and UX design.
 
-💼 **Work Experience**
+## Contributions
 
-- **Songoda** (Developer): Worked on the BrownieRPG project. Visit [Songoda](https://songoda.com) for more information.
-- **TechsCode** (Marketing Team, Community Manager): Managed marketing initiatives and community engagement.
-- **JeraCraft** (Developer): Actively contributed to developing the JeraCraft Minecraft server.
-- **RabbitCompany LLC** (Developer): Collaborated on various open-source projects. Visit [RabbitCompany LLC](https://rabbit-company.com) for more details.
+- 👑 [Cosmetica](https://cosmetica.cc): Provided Slovenian translation support.
 
-📫 **Let's Connect!**
+## Let's Connect!
 
 Feel free to reach out to me via the following channels:
 
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/matonsocials)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/matonsocial)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/UnV3qc9pp9)
-
-**Let's connect and collaborate on exciting projects!**
+[![Twitter](https://img.shields.io/twitter/follow/matonsocials?style=social)](https://twitter.com/matonsocials)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blueviolet?style=social&logo=instagram)](https://www.instagram.com/matonsocials/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mathias-clari-drenik/)
