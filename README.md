@@ -1,9 +1,3 @@
-# Mathias Clari Drenik
-
-## About Me
-
-I'm Mathias, a 19-year-old from Slovenia with Slovenian and Italian nationalities. I'm passionate about exploring technology, gaming, connecting with people, and learning new programming languages. I enjoy expanding my coding skills, and I'm always excited about new opportunities and growth!
-
 ## Skills
 
 - 💻 **Programming Languages**:
