@@ -9,8 +9,7 @@ Hello there! 👋 I'm Mathias Clari Drenik, a 19-year-old developer with a passi
 
 ## What I'm up to
 
-- 💼 I'm the CEO and Lead Developer at Noximity, a game development studio where we're working on exciting projects. Some of them are top-secret, so stay tuned for some awesome gaming stuff in the near future!
-- 🎨 I also contribute as a UI/UX designer for the open-source project PipeBomb.
+- 💼 I'm the CEO of Noximity d.o.o. - [Website](https://noximity.com)
 
 ## My Skills
 
@@ -22,13 +21,14 @@ I'm experienced in a wide range of technologies, including:
 - 🦎 **Svelte**
 - 📝 **TypeScript**
 - ⚛️ **React**
+- ⬛ **NextJS**
 - 🚀 **VITE**
 - 🛠️ **Tauri**
 - 🌟 **C#**
-- 🎮 **C++**
+- 🎮 **C++** - [W3Schools Certificate](https://verify.w3schools.com/1O7S2ACDC8)
 - 🎮 **Unreal Engine / Unity**
 - 🗃️ **SQL, SQLite, MongoDB**
-- 📦 **VSCode** and **Visual Studio** are my go-to tools for development.
+- 📦 **VSCode** , **IntelliJ IDEA** and **Visual Studio** are my go-to tools for development.
 
 ## Fun Fact
 
