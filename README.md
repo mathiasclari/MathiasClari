@@ -26,7 +26,7 @@ I'm experienced in a wide range of technologies, including:
 - 🛠️ **Tauri**
 - 🌟 **C#**
 - 🎮 **C++** - [W3Schools Certificate](https://verify.w3schools.com/1O7S2ACDC8)
-- 🎮 **Unreal Engine / Unity**
+- 🎮 **Unreal Engine**
 - 🗃️ **SQL, SQLite, MongoDB**
 - 📦 **VSCode** , **IntelliJ IDEA** and **Visual Studio** are my go-to tools for development.
 
