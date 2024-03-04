@@ -9,7 +9,7 @@ Hello there! 👋 I'm Mathias Clari Drenik, a 19-year-old developer with a passi
 
 ## What I'm up to
 
-- 💼 I'm the CEO of Noximity d.o.o. - [Website](https://noximity.com)
+- 💼 I'm the CEO of Noximity - [Website](https://noximity.com)
 
 ## My Skills
 
