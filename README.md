@@ -5,7 +5,7 @@ Hello there! 👋 I'm Mathias Clari Drenik, a 19-year-old developer with a passi
 ## About Me
 
 - **Name:** Mathias Clari Drenik
-- **Age:** 19
+- **Age:** 20
 
 ## What I'm up to
 
