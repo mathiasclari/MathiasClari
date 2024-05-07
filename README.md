@@ -1,33 +1,28 @@
-# Mathias Clari Drenik's GitHub Profile
+# Hello, I'm Mathias 👋
 
-Hello there! 👋 I'm Mathias Clari Drenik, a 19-year-old developer with a passion for creating cool things. Here's a bit about me and what I do:
+Welcome to my GitHub profile! I'm a passionate student from the beautiful Slovenia, currently diving deep into the world of computer science at MIC Nova Gorica.
 
-## About Me
+# Skills:
+- **App Development (Flutter/Dart)**
+- SQL
+- Java
+- JavaScript/Typescript
+- Web Development(NextJS)
+- C++
 
-- **Name:** Mathias Clari Drenik
-- **Age:** 20
+# Learning Projects:
+* WeatherApp - [IOS / Android] [Check Out](https://github.com/mathiasclari/matsweatherapp)
+https://www.linkedin.com/company/techscode
+# Work Experience:
+As Student:
+* 2019-2022 - IMAS D.O.O. [Website](https://imas.si) - Work in a factory. Total: (742h)
+* 2023 - VH Design Zdravko Hrušovar S.P. - Help with CNC Machines (Lasers) / Graphic Designing. Total: (Around 2 months)
+* 2022 - Songoda LLC [Website](https://www.linkedin.com/company/songoda/) -  Development Development. Total: (Around 1 month)
+* 2022 - TechsCode [Website](https://www.linkedin.com/company/techscode) - Community Management / Marketing Department (A few months)
+* 2022 - Rabbit Company LLC [Website](https://www.linkedin.com/company/rabbit-company-llc/) - Development Department (1-2 months)
+* 2023 - KingsBox D.O.O. [Website](https://kingsbox.com) - Work in a storage facility. Total: (324h)
+* 2023-2024 - EngroTus D.O.O. [Website](https://tus.si) - Work in a grocery store. Total: (800h)
 
-## My Skills
 
-I'm experienced in a wide range of technologies, including:
-
-- 💻 **Git/GitHub**
-- ☕ **Java**
-- 🌐 **HTML, CSS, JavaScript**
-- 🦎 **Svelte**
-- 📝 **TypeScript**
-- ⚛️ **React**
-- ⬛ **NextJS**
-- 🚀 **VITE**
-- 🛠️ **Tauri**
-- 🌟 **C#**
-- 🎮 **C++** - [W3Schools Certificate](https://verify.w3schools.com/1O7S2ACDC8)
-- 🎮 **Unreal Engine**
-- 🗃️ **SQL, SQLite, MongoDB**
-- 📦 **VSCode** , **IntelliJ IDEA** and **Visual Studio** are my go-to tools for development.
-
-## Fun Fact
-
-I'm proudly half Italian 🇮🇹 and half Slovenian 🇸🇮, bringing a mix of culture and creativity to everything I do.
-
-Feel free to explore my repositories and get in touch if you want to collaborate or just chat about coding and tech! 😄🚀
+# Contact:
+* Email: mathiasclari@clarigrid.com
