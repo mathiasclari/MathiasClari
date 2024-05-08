@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate student from the beautiful Sloven
 
 # Learning Projects:
 * WeatherApp - [IOS / Android] [Check Out](https://github.com/mathiasclari/matsweatherapp)
-https://www.linkedin.com/company/techscode
+
 # Work Experience:
 As Student:
 * 2019-2022 - IMAS D.O.O. [Website](https://imas.si) - Work in a factory. Total: (742h)
