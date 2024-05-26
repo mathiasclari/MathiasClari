@@ -1,7 +1,6 @@
 # Hello, I'm Mathias 👋
 
-Welcome to my GitHub profile! I'm a passionate student from the beautiful Slovenia, currently diving deep into the world of compu
-ter science at MIC Nova Gorica.
+Welcome to my GitHub profile! I'm a passionate student from the beautiful Slovenia, currently diving deep into the world of computer science at MIC Nova Gorica.
 
 # Skills:
 - **App Development (Flutter/Dart)**
