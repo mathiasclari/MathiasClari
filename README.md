@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate student from the beautiful Slovenia, currently diving deep into the world of computer science at MIC Nova Gorica.
 
 # Skills:
-- **App Development (Flutter/Dart)**
+- **App Development**
 - SQL
 - Java
 - JavaScript/Typescript
