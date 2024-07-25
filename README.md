@@ -21,7 +21,7 @@ As Student:
 * 2022 - TechsCode [Website](https://www.linkedin.com/company/techscode) - Community Management / Marketing Department (A few months)
 * 2022 - Rabbit Company LLC [Website](https://www.linkedin.com/company/rabbit-company-llc/) - Development Department (1-2 months)
 * 2023 - KingsBox D.O.O. [Website](https://kingsbox.com) - Work in a storage facility. Total: (324h)
-* 2023-2024 - EngroTus D.O.O. [Website](https://tus.si) - Work in a grocery store. Total: (800h)
+* 2023+ - EngroTus D.O.O. [Website](https://tus.si) - Work in a grocery store. Total: (+800h)
 
 
 # Contact:
